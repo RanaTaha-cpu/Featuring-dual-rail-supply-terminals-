@@ -1,0 +1,3 @@
+Designed a custom ADC module with dual-rail supply, voltage outputs, a 7-segment voltmeter, and DIP switch control.
+Built on a breadboard using a resistor network and an 8-pin comparator/op-amp IC to convert analog signals into 4-bit digital output.
+A hands-on project that deepened understanding of signal conversion, precision wiring, and voltage control
